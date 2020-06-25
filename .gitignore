@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+*.zip
+California_Fire_Incidents.csv
+# get this data from kaggle instead.
