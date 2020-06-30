@@ -5,6 +5,8 @@
 
 **Jason T Brown**, Senior Data Scientist at [Astraea, Inc](https://astraea.earth/)
 
+📹 Video of the talk as given at the Summit is now up on the [main Summit webpage](https://databricks.com/session_na20/bring-satellite-and-drone-imagery-into-your-data-science-workflows) and on [YouTube](https://www.youtube.com/watch?v=fiT4KKs5SeQ). Thanks for watching! 
+
 ### Purpose of this repo
 
 Provide artifacts from the [the talk](https://databricks.com/session_na20/bring-satellite-and-drone-imagery-into-your-data-science-workflows) "Bring Satellite & Drone Imagery into Your Data Science Workflows" Friday June 26 at Spark+AI Summit.
